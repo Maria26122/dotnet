@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Education DataAccess/Education DataAccess.csproj" />
+  <Project Path="Education DataEntities/Education DataEntities.csproj" />
+  <Project Path="Education.Web.UI/Education.Web.UI.csproj" />
+</Solution>
